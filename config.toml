@@ -206,7 +206,7 @@ enableGitInfo = true
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 1
 
   # Social/Academic Networking
   #
@@ -310,7 +310,7 @@ enableGitInfo = true
 
 [languages.de]
   languageCode = "de-de"
-  title = "René's Biographie"
+  title = "René Reitmann"
   weight = 2
 
   [languages.de.params]

@@ -14,6 +14,7 @@ interests = [
     "Platform-as-a-Service",
     "Software-as-a-Service",
     "Angular",
+    "Material Design",
     "Spring Boot"
 ]
 
@@ -31,4 +32,4 @@ I am currently employed as [DevOp](https://en.wikipedia.org/wiki/DevOps) and [Sc
 
 Before my time at the DZHW, I first worked as a consulting software engineer at [Capgemini](https://www.capgemini.com/?georedirect_none=true) after studying [mathematical economics](https://en.wikipedia.org/wiki/Mathematical_economics) at the [Clausthal University of Technology](https://www.tu-clausthal.de/en/info/). After my time at Capgemini, I was employed for a short time as IT coordinator at [KKH](https://www.kkh.de/other-languages/willkommen-bei-der-kkh-englisch). I then moved to [Zühlke Engineering](https://www.zuehlke.com/de/en/), where I again worked as a consulting software engineer.
 
-During the time at Zühlke I became seriously mentally ill at the end of 2011. During the recovery period my son Tammo was born in 2013 and I came into contact with the DZHW, where, as mentioned at the beginning, I have been working since 2015. My second son Michel was born in 2016.
+During the time at Zühlke I became seriously mentally ill at the end of 2011. In the following recovery period my son Tammo was born in 2013 and I came into contact with the DZHW, where, as mentioned at the beginning, I have been working since 2015. My second son Michel was born in 2016.
