@@ -74,7 +74,7 @@ enableGitInfo = true
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = ""
+  keybase = "rreitmann"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -246,6 +246,10 @@ enableGitInfo = true
     icon_pack = "fa"
     link = "//stackoverflow.com/users/story/4758835"
 
+  [[params.social]]
+    icon = "key"
+    icon_pack = "fa"
+    link = "//keybase.io/rreitmann"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
