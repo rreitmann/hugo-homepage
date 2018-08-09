@@ -5,9 +5,9 @@ active = true
 date = 2017-09-20T00:00:00
 
 title = "Tags"
-subtitle = "Topics addressed on my homepage or in my projects"
+subtitle = "Technical topics of projects"
 
 # Order that this section will appear in.
-weight = 65
+weight = 60
 
 +++

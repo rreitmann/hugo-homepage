@@ -7,6 +7,7 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://rreitmann.github.io"
+enableRobotsTXT = true
 
 # Title of your site
 title = "René Reitmann"
@@ -50,7 +51,7 @@ enableGitInfo = true
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "custom"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -276,10 +277,20 @@ enableGitInfo = true
   url = "#projects"
   weight = 2
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications"
-#  weight = 3
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
+
+[[menu.main]]
+  name = "Spare Time"
+  url = "#spare-time"
+  weight = 4
+
+[[menu.main]]
+  name = "Tags"
+  url = "#tags"
+  weight = 5
 
 #[[menu.main]]
 #  name = "Blog"
@@ -289,7 +300,7 @@ enableGitInfo = true
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -317,7 +328,7 @@ enableGitInfo = true
   title = "René Reitmann"
   weight = 2
 
-  [languages.de.params]
+[languages.de.params]
     role = "Vater, Ehemann, Scrum Master, Full Stack Entwickler und DevOp"
 
     address = "Fontainestraße 6, 30519 Hannover, Deutschland"
@@ -338,10 +349,20 @@ enableGitInfo = true
     url = "#projects"
     weight = 2
 
-  #[[languages.de.menu.main]]
-  #  name = "Publikationen"
-  #  url = "#publications"
-  #  weight = 3
+  [[languages.de.menu.main]]
+    name = "Publikationen"
+    url = "#publications"
+    weight = 3
+
+  [[languages.de.menu.main]]
+    name = "Freizeit"
+    url = "#spare-time"
+    weight = 4
+
+  [[languages.de.menu.main]]
+    name = "Tags"
+    url = "#tags"
+    weight = 5
 
   #[[languages.de.menu.main]]
   #  name = "Blog"
@@ -351,4 +372,4 @@ enableGitInfo = true
   [[languages.de.menu.main]]
     name = "Kontakt"
     url = "#contact"
-    weight = 5
+    weight = 6

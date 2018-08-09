@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Scrum",
+    "DevOps",
     "Platform-as-a-Service",
     "Software-as-a-Service",
     "Angular",
@@ -28,7 +29,7 @@ weight = 5
 
 # Biographie
 
-Ich bin aktuell als [DevOp](https://de.wikipedia.org/wiki/DevOps) und [Scrum Master](https://www.scrumguides.org/scrum-guide.html#team-sm) im [Forschungsdatenzentrum (FDZ)] (https://www.fdz.dzhw.eu) des [Deutschen Zentrum für Hochschul- und Wissenschaftsforschung (DZHW)](https://www.dzhw.eu) angestellt. Hier entwickeln wir seit 2015 mit einem interdisziplinären Team ein [Such- und Dokumentationsportal](https://metadata.fdz.dzhw.eu) für die im FDZ verfügbaren Datensätze. Dieses Portal wird offen [auf GitHub](https://github.com/dzhw/metadatamanagement) entwickelt.
+Ich bin aktuell als [DevOp](https://de.wikipedia.org/wiki/DevOps) und [Scrum Master](https://www.scrumguides.org/scrum-guide.html#team-sm) im [Forschungsdatenzentrum (FDZ)] (https://www.fdz.dzhw.eu) des [Deutschen Zentrums für Hochschul- und Wissenschaftsforschung (DZHW)](https://www.dzhw.eu) angestellt. Hier entwickeln wir seit 2015 mit einem interdisziplinären Team ein [Such- und Dokumentationsportal](https://metadata.fdz.dzhw.eu) für die im FDZ verfügbaren Datensätze. Dieses Portal wird offen [auf GitHub](https://github.com/dzhw/metadatamanagement) entwickelt.
 
 Vor meiner Zeit beim DZHW war ich, im Anschluss an mein Studium der [Wirtschaftsmathematik] (https://de.wikipedia.org/wiki/Wirtschaftsmathematik) an der [TU Clausthal](https://www.tu-clausthal.de/), zuerst als beratender Software Engineer bei [Capgemini](https://de.wikipedia.org/wiki/Capgemini) tätig. Im Anschluss an die Zeit bei Capgemini war ich für eine kurze Zeit bei der [KKH](https://www.kkh.de/ueber-uns) als IT-Koordinator angestellt. Danach wechselte ich zu [Zühlke Engineering](https://www.zuehlke.com/de/de/), wo ich erneut als beratender Software Engineer tätig war.
 

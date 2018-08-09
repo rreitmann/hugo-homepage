@@ -11,6 +11,7 @@ weight = 5
 [interests]
 interests = [
     "Scrum",
+    "DevOps",
     "Platform-as-a-Service",
     "Software-as-a-Service",
     "Angular",

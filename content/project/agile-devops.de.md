@@ -6,7 +6,7 @@ weight = 1
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["scrum", "agil", "devops"]
+tags = ["scrum", "agil", "devops", "git"]
 
 # Project summary to display on homepage.
 summary = "Einführung Scrum und DevOps in unserer Abteilung"
@@ -21,12 +21,13 @@ external_link = "https://dzhw.github.io/agile-devops"
 math = false
 
 # Does the project detail page use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "https://source.unsplash.com/3BK_DyRVf90/1600x300"
 caption = ""
 
 +++
+Aktuell überlegen wir die Paradigmen, Vorgehensweisen und Tools, die wir bei der Entwicklung des "Metadatamagement (MDM)" erfolgreich verwendet haben, auch abteilungsweit zum Einsatz zu bringen.
