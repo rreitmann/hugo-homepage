@@ -11,7 +11,7 @@ title = "Freizeit"
 subtitle = "Meine außerberuflichen Projekte"
 
 # Order that this section will appear in.
-weight = 50
+weight = 60
 
 +++
 Wenn ich gerade nicht eine meiner bisher erwähnten Rollen ausübe, tue ich folgendes:
@@ -19,4 +19,4 @@ Wenn ich gerade nicht eine meiner bisher erwähnten Rollen ausübe, tue ich folg
 - [Tischtennis](https://www.mytischtennis.de/clicktt/TTVN/18-19/ligen/2-Bezirksklasse-Herren-Gruppe-12/gruppe/336370/mannschaft/2110414/TSV-Rethen/spielerbilanzen/vr) spielen beim [TSV Rethen](http://www.tsv-rethen.de/cms/index.php)
 - [Verwalter](https://de.wikipedia.org/wiki/Wohnungseigentumsverwaltung) der WEG Fontainestraße 6 sein
 - [Pan-Pong](https://www.youtube.com/watch?v=x88r1ECHgfs) spielen
-- Mich informieren über alternative Schulkonzepte wie [dieses](https://de.wikipedia.org/wiki/Glockseeschule) 
+- Mich informieren über alternative Schulkonzepte wie [dieses](https://de.wikipedia.org/wiki/Glockseeschule)

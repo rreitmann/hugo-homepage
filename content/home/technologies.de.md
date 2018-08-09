@@ -4,10 +4,10 @@ widget = "tag_cloud"
 active = true
 date = 2017-09-20T00:00:00
 
-title = "Tags"
-subtitle = "Technical topics of projects"
+title = "Technologien"
+subtitle = "Technische Themen aus meinen Projekten"
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 
 +++
