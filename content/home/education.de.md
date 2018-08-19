@@ -20,7 +20,7 @@ weight = 35
 - Training „Konfliktmanagement“ bei Stöger & Partner (Februar 2009)
 - School „SOA“ bei Capgemini (November 2008)
 - School „Systemintegration“ bei Capgemini (März 2008)
-- Training „Moderation“ bei Stöger & Partner, (Oktober 2007)
-- Training „Präsentation“ (Stöger & Partner, Dezember 2006)
+- Training „Moderation“ bei Stöger & Partner (Oktober 2007)
+- Training „Präsentation“ bei Stöger & Partner (Dezember 2006)
 - Studium der Wirtschaftsmathematik an der TU Clausthal und QUB Belfast (1999 - 2005), Diplomnote: 1,3
 - Gymnasium der Albert-Einstein-Schule KGS Laatzen (1991 - 1998), Abiturnote: 1,8
