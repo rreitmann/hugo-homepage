@@ -283,19 +283,24 @@ enableGitInfo = true
   weight = 3
 
 [[menu.main]]
+  name = "Education"
+  url = "#education"
+  weight = 4
+
+[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Technologies"
   url = "#technologies"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Spare Time"
   url = "#spare-time"
-  weight = 6
+  weight = 7
 
 #[[menu.main]]
 #  name = "Blog"
@@ -305,7 +310,7 @@ enableGitInfo = true
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -360,19 +365,24 @@ enableGitInfo = true
     weight = 3
 
   [[languages.de.menu.main]]
+    name = "Ausbildung"
+    url = "#education"
+    weight = 4
+
+  [[languages.de.menu.main]]
     name = "Publikationen"
     url = "#publications"
-    weight = 4
+    weight = 5
 
   [[languages.de.menu.main]]
     name = "Technologien"
     url = "#technologies"
-    weight = 5
+    weight = 6
 
   [[languages.de.menu.main]]
     name = "Freizeit"
     url = "#spare-time"
-    weight = 6
+    weight = 7
   #[[languages.de.menu.main]]
   #  name = "Blog"
   #  url = "#blog"
@@ -381,4 +391,4 @@ enableGitInfo = true
   [[languages.de.menu.main]]
     name = "Kontakt"
     url = "#contact"
-    weight = 7
+    weight = 8

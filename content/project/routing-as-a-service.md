@@ -6,7 +6,7 @@ weight = 4
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["java", "soap-ui", "rest"]
+tags = ["java", "soap-ui", "rest", "svn"]
 
 # Project summary to display on homepage.
 summary = "Further development and test automation for a provider of digital road maps"
