@@ -11,12 +11,11 @@ weight = 5
 [interests]
 interests = [
     "Scrum",
+    "Spring Boot",
     "DevOps",
     "Platform-as-a-Service",
     "Software-as-a-Service",
-    "Angular",
-    "Material Design",
-    "Spring Boot"
+    "Angular"
 ]
 
 # List your qualifications (such as academic degrees).
