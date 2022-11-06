@@ -25,7 +25,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "https://source.unsplash.com/0E0j6aC5BUw/1600x200"
+image = ""
 caption = ""
 
 +++

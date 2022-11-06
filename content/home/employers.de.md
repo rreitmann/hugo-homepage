@@ -16,8 +16,10 @@ weight = 10
 +++
 Während meines Studiums und in Jahren danach bis einschließlich heute war ich bei den folgenden Unternehmen angestellt:
 
-- [DZHW](https://www.dzhw.eu) (Juli 2015 - heute)
-  <br>Anwendungsentwickler und Architekt
+- [Magicline](https://www.magicline.com/de/) (Februar 2022 - Juni 2022)
+  <br>Senior Software Engineer
+- [DZHW](https://www.dzhw.eu) (Juli 2015 - Dezember 2021)
+  <br>Senior Software Engineer
 - [Zühlke Engineering](https://www.zuehlke.com/de/de/) (Juni 2010 - Juni 2015)
   <br>Senior Software Engineer
 - [KKH](https://www.kkh.de/ueber-uns) (März 2010 - Mai 2010)

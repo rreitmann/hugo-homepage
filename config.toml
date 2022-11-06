@@ -14,7 +14,7 @@ title = "René Reitmann"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2022"
 
 theme = "academic"
 enableEmoji = true
@@ -59,11 +59,11 @@ enableGitInfo = true
 
   # Your details.
   name = "René Reitmann"
-  role = "Father, Husband, Scrum Master, Full Stack Developer and DevOp"
+  role = "Father, Husband, Scrum Master, Software Engineer and DevOp"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "DZHW GmbH", url = "https://www.dzhw.eu" } ]
+  organizations = [ ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -75,7 +75,7 @@ enableGitInfo = true
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = "rreitmann"
+  keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -245,12 +245,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "stack-overflow"
     icon_pack = "fa"
-    link = "//stackoverflow.com/users/story/4758835"
-
-  [[params.social]]
-    icon = "key"
-    icon_pack = "fa"
-    link = "//keybase.io/rreitmann"
+    link = "//stackoverflow.com/users/4758835/ren%c3%a9-reitmann"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -339,7 +334,7 @@ enableGitInfo = true
   weight = 2
 
 [languages.de.params]
-    role = "Vater, Ehemann, Scrum Master, Full Stack Entwickler und DevOp"
+    role = "Vater, Ehemann, Scrum Master, Software Engineer und DevOp"
 
     address = "Fontainestraße 6, 30519 Hannover, Deutschland"
 
@@ -375,7 +370,7 @@ enableGitInfo = true
     weight = 5
 
   [[languages.de.menu.main]]
-    name = "Technologien"
+    name = "Technologie"
     url = "#technologies"
     weight = 6
 

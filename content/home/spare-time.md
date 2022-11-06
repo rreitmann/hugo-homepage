@@ -19,4 +19,3 @@ If I'm not doing one of the roles I have mentioned earlier, here's what I'm doin
 - Play [Table Tennis](https://www.mytischtennis.de/clicktt/TTVN/18-19/ligen/2-Bezirksklasse-Herren-Gruppe-12/gruppe/336370/mannschaft/2110414/TSV-Rethen/spielerbilanzen/vr) at [TSV Rethen](http://www.tsv-rethen.de/cms/index.php)
 - Being [Administrator of "WEG Fontainestraße 6"](https://de.wikipedia.org/wiki/Wohnungseigentumsverwaltung)
 - Play [Pan-Pong](https://www.youtube.com/watch?v=x88r1ECHgfs)
-- Get informed about alternative school concepts like [this](https://de.wikipedia.org/wiki/Glockseeschule)

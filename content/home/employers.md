@@ -16,8 +16,10 @@ weight = 10
 +++
 During my studies and in years thereafter up to and including today I was employed by the following companies:
 
-- [DZHW](https://www.dzhw.eu) (July 2015 - today)
-  <br>Software Engineer and Architect
+- [Magicline](https://www.magicline.com/en/) (February 2022 - June 2022)
+  <br>Senior Software Engineer
+- [DZHW](https://www.dzhw.eu) (July 2015 - December 2021)
+  <br>Senior Software Engineer
 - [Zühlke Engineering](https://www.zuehlke.com/de/de/) (June 2010 - July 2015)
   <br>Senior Software Engineer
 - [KKH](https://www.kkh.de/ueber-uns) (March 2010 - May 2010)
