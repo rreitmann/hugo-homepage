@@ -14,7 +14,7 @@ subtitle = ""
 weight = 10
 
 +++
-Während meines Studiums und in Jahren danach bis einschließlich heute war ich bei den folgenden Unternehmen angestellt:
+Während meines Studiums und in den Jahren danach bis einschließlich heute war ich bei den folgenden Unternehmen angestellt:
 
 - [Magicline](https://www.magicline.com/de/) (Februar 2022 - Juni 2022)
   <br>Senior Software Engineer
