@@ -6,7 +6,7 @@ weight = 2
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["spring mvc", "spring-boot", "spring data", "jpa", "hibernate", "thymeleaf", "java", "postgres", "rabbitmq", "maven", "junit", "git", "teamcity", "github actions", "jira", "graylog", "grafana", "datadog", "slack", "aws", "docker"]
+tags = ["spring mvc", "rest", "spring-boot", "spring data", "jpa", "hibernate", "thymeleaf", "java", "postgres", "rabbitmq", "maven", "junit", "git", "teamcity", "github actions", "jira", "graylog", "grafana", "datadog", "slack", "aws", "docker"]
 
 # Project summary to displ""ay on homepage.
 summary = "Implementierung einer cloudbasierten Managementsoftware für Fitnessstudios"
