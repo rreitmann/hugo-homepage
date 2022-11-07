@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["bpel", "soap", "soa"]
+tags = ["bpel", "soap", "soa", "jsp", "j2ee", "mysql", "eclipse", "dreamweaver"]
 
 # Project summary to display on homepage.
 summary = "Praktikum in der F&E-Abteilung bei einem Softwareentwicklungsdienstleister auf Sri Lanka"

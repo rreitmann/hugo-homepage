@@ -6,7 +6,7 @@ weight = 2
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["scrum", "devops", "spring mvc", "spring-boot", "angularjs", "material design", "java", "javascript", "maven", "grunt", "cloudfoundry", "mongodb", "elasticsearch", "rabbitmq", "robotframework", "saucelabs", "karma", "jasmine", "junit", "github actions", "git", "aws fargate", "docker", "terraform"]
+tags = ["scrum", "devops", "spring", "spring-boot", "spring security", "spring mvc", "freemarker", "thymeleaf", "spring data", "rest", "angularjs", "angularjs material", "java", "javascript", "python", "R", "maven", "grunt", "npm", "snyk", "dependabot", "cloudfoundry", "mongodb", "elasticsearch", "rabbitmq", "robotframework", "saucelabs", "karma", "jasmine", "junit", "github actions", "github issues", "travis ci", "git", "aws", "aws fargate", "aws ses", "aws sns", "aws cloudwatch", "docker", "terraform", "slack"]
 
 # Project summary to displ""ay on homepage.
 summary = "Implementing a search portal for social scientists"

@@ -6,7 +6,7 @@ weight = 5
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["java", "j2ee", "oc4j", "oracledb", "swing", "webstart", "oracle workflow", "sql", "rup", "cvs", "svn", "devops"]
+tags = ["java", "j2ee", "oc4j", "oracle db", "swing", "webstart", "oracle workflow", "sql", "rup", "cvs", "svn", "devops", "hp-ux", "eclipse", "jdeveloper"]
 
 # Project summary to display on homepage.
 summary = "Further development of the central order management system of a German postal service provider"
