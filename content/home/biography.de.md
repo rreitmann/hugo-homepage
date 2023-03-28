@@ -14,8 +14,7 @@ weight = 5
     "Spring Boot",
     "DevOps",
     "Platform-as-a-Service",
-    "Software-as-a-Service",
-    "Angular"
+    "Software-as-a-Service"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,7 +27,7 @@ weight = 5
 
 # Biographie
 
-Ich bin aktuell auf der Suche nach einer neuen Herausforderung als Software Engineer. In der Vergangenheit war ich in unterschiedlichen [Projekten](#projects) als Backend Developer oder Full Stack Developer sowie als [DevOp](https://de.wikipedia.org/wiki/DevOps) und [Scrum Master](https://www.scrumguides.org/scrum-guide.html#team-sm) tätig. Beim DZHW habe ich beispielsweise mit einem interdisziplinären Team ein [Such- und Dokumentationsportal](https://metadata.fdz.dzhw.eu) für die im FDZ des DZHW verfügbaren Datensätze entwickelt. Dieses Portal wird weiterhin offen [auf GitHub](https://github.com/dzhw/metadatamanagement) entwickelt.
+Ich bin aktuell bei der [HDI AG](https://www.hdi.de/) als Software Engineer angestellt. In der Vergangenheit war ich in unterschiedlichen [Projekten](#projects) als Backend Developer oder Full Stack Developer sowie als [DevOp](https://de.wikipedia.org/wiki/DevOps) und [Scrum Master](https://www.scrumguides.org/scrum-guide.html#team-sm) tätig. Beim DZHW habe ich beispielsweise mit einem interdisziplinären Team ein [Such- und Dokumentationsportal](https://metadata.fdz.dzhw.eu) für die im FDZ des DZHW verfügbaren Datensätze entwickelt. Dieses Portal wird weiterhin offen [auf GitHub](https://github.com/dzhw/metadatamanagement) entwickelt.
 
 Vor meiner Zeit beim DZHW war ich, im Anschluss an mein Studium der [Wirtschaftsmathematik] (https://de.wikipedia.org/wiki/Wirtschaftsmathematik) an der [TU Clausthal](https://www.tu-clausthal.de/), zuerst als beratender Software Engineer bei [Capgemini](https://de.wikipedia.org/wiki/Capgemini) tätig. Im Anschluss an die Zeit bei Capgemini war ich für eine kurze Zeit bei der [KKH](https://www.kkh.de/ueber-uns) als IT-Koordinator angestellt. Danach wechselte ich zu [Zühlke Engineering](https://www.zuehlke.com/de/de/), wo ich erneut als beratender Software Engineer tätig war.
 

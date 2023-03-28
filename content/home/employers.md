@@ -16,6 +16,8 @@ weight = 10
 +++
 During my studies and in the years thereafter up to and including today I was employed by the following companies:
 
+- [HDI](https://www.hdi.de/) (April 2023 - today)
+  <br>Senior Software Engineer
 - [Magicline](https://www.magicline.com/en/) (February 2022 - June 2022)
   <br>Senior Software Engineer
 - [DZHW](https://www.dzhw.eu) (July 2015 - December 2021)
