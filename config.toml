@@ -59,7 +59,7 @@ enableGitInfo = true
 
   # Your details.
   name = "René Reitmann"
-  role = "Father, Husband, Scrum Master, Software Engineer and DevOp"
+  role = "Father, Husband, Software Engineer and DevOp"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -339,7 +339,7 @@ enableGitInfo = true
   weight = 2
 
 [languages.de.params]
-    role = "Vater, Ehemann, Scrum Master, Software Engineer und DevOp"
+    role = "Vater, Ehemann, Software Engineer und DevOp"
 
     address = "Fontainestraße 6, 30519 Hannover, Deutschland"
 
